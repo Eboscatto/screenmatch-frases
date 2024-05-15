@@ -10,5 +10,4 @@ public class ScreenMatchFrasesFamosasApplication {
 
 		SpringApplication.run(ScreenMatchFrasesFamosasApplication.class, args);
 	}
-
 }
